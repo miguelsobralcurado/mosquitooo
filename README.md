@@ -1,73 +1,33 @@
-*This project has been created by miguelsobralcurado.*
-<br/><br/>
+# `mosquitooo`<img src="https://github.com/miguelsobralcurado/mosquitooo/blob/main/mosquito_pixel.png" width="150" /></h1>
 
-<h1 align="center">🦟 mosquitooo</h1>
-
-<p align="center">
-  Random surround interactive mosquito designed in Max
-</p>
-<p align="center">
+Random surround interactive mosquito designed in Max
+<p align="left">
     <img src="https://img.shields.io/github/languages/top/miguelsobralcurado/mosquitooo?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/miguelsobralcurado/mosquitooo?style=for-the-badge" />
 </p>
 
-## **`mosquitooo`**
-
-is an interactive audio-visual project created in Max that simulates the behavior of a mosquito in a surround sound environment. The project demonstrates applications of:
-
-- Real-time audio processing
-- Spatial sound design
-- Interactive systems
-- Generative audio
-- Max/MSP programming
-
-The project creates an immersive experience where the user can interact with a virtual mosquito entity that responds to input and generates dynamic soundscapes.
-
-## 📁 Project Structure
-
-```text
-.
-├── mosquitooo.maxpat
-├── README.md
-└── [supporting Max patches and audio files]
-```
-
+**`mosquitooo`** is an interactive audio project created in Max that simulates the behavior of a random mosquito in a surround sound environment.
+The user can interact and "slap" the virtual mosquito that responds to input.
 
 ## 🎛️ Max/MSP Implementation
 
 Interactive audio environment featuring mosquito simulation.
 
-- ⚙️ Requirements
-
-Max 8+
-Audio interface with surround capabilities (recommended)
 - 🎮 Interaction
 
-The mosquito responds to various input parameters:
+  The mosquito responds to various input parameters:
 
-Spatial position in the surround field
-Audio input sensitivity
-Randomized behavioral patterns
-- 🔊 Audio Features
+    - Spatial position in the surround field
+    - Audio input sensitivity
+    - Randomized behavioral patterns
 
-Feature	Description
-Surround Panning	Mosquito movement across multi-channel audio
-Real-time Synthesis	Dynamic sound generation based on behavior
-Spatial Audio	3D audio positioning and movement
-Interactive Control	User-driven parameter modulation
-🚀 Instructions
+- ⚙️ Requirements/Dependencies
 
-🛠️ Requirements
-
-Max 8 or later
-Audio enabled system
-Setup
-
-Open mosquitooo.maxpat in Max
-Enable audio (turn on DSP)
-Configure your audio interface and surround setup
-
-## Author
+    - Max 8+
+    - Audio interface with surround capabilities (recommended)
+    - [data-knot](https://github.com/rconstanzo/data-knot) package by [Rodrigo Constanzo](https://github.com/rconstanzo)
+    - ICST Ambisonics package
+  
+## 👨🏻‍💻 Author
 
 **`Miguel Sobral Curado`**
 
