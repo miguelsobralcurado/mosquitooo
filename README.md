@@ -67,12 +67,13 @@ Open mosquitooo.maxpat in Max
 Enable audio (turn on DSP)
 Configure your audio interface and surround setup
 
-## 👨‍💻 Author
+## Author
+
+**`Miguel Sobral Curado`**
 
 <p>
-  <img src="https://avatars.githubusercontent.com/u/174656941?v=4" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/174656941?v=4" width="180"/>
 </p>
-### Miguel Sobral Curado
 
 [![GitHub](https://img.shields.io/badge/github-%23E4405F.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelsobralcurado/) 
 [![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/msobral-)
